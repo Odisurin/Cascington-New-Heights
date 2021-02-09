@@ -14,8 +14,8 @@
 	var/id = null	// if an id is set, this will travel to any instance of /obj/effect/landmark/transport_location with the same id. See landmarks.dm
 
 /obj/machinery/transportpod/president
-	name = "president's ballistic transportation pod"
-	req_access = list(access_president)
+	name = "government ballistic transportation pod"
+	req_access = list(access_cent_general)
 
 
 /obj/machinery/transportpod/relaymove(mob/user as mob)
