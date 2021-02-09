@@ -20,8 +20,8 @@
 	name += " #[rand(000,999)]"
 
 /obj/machinery/transportpod/president
-	name = "president's ballistic transportation pod"
-	req_access = list(access_president)
+	name = "government ballistic transportation pod"
+	req_access = list(access_cent_general)
 
 /obj/machinery/transportpod/government
 	name = "government official's ballistic transportation pod"
