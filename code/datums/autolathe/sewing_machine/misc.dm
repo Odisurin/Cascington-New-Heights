@@ -89,6 +89,10 @@
 	name = "black carpet"
 	path = /obj/item/stack/tile/carpet/blackcarpet
 
+/datum/category_item/crafting/sewing_machine/misc/carpet/whitecarpet
+	name = "white carpet"
+	path = /obj/item/stack/tile/carpet/whitecarpet
+
 // misc
 
 /datum/category_item/crafting/sewing_machine/misc/towel

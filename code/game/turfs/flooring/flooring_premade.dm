@@ -11,8 +11,13 @@
 
 /turf/simulated/floor/carpet/bcarpet
 	name = "black carpet"
-	icon_state = "bcarpet"
+	icon_state = "blackcarpet"
 	initial_flooring = /decl/flooring/carpet/bcarpet
+
+/turf/simulated/floor/carpet/wcarpet
+	name = "white carpet"
+	icon_state = "whitecarpet"
+	initial_flooring = /decl/flooring/carpet/wcarpet
 
 /turf/simulated/floor/carpet/blucarpet
 	name = "blue carpet"

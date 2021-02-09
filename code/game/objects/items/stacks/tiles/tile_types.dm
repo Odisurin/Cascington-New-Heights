@@ -190,7 +190,13 @@
 /obj/item/stack/tile/carpet/blackcarpet
 	icon_state = "tile-carpet"
 	stack_color = COLOR_GRAY
-	name = "blackcarpet"
+	name = "black carpet"
+
+/obj/item/stack/tile/carpet/whitecarpet
+	icon_state = "tile-carpet"
+	stack_color = COLOR_WHITE
+	name = "white carpet"
+
 
 /obj/item/stack/tile/floor
 	name = "floor tile"

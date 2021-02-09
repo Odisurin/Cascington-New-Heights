@@ -185,8 +185,13 @@ var/list/flooring_types
 
 /decl/flooring/carpet/bcarpet
 	name = "black carpet"
-	icon_base = "bcarpet"
-	build_type = /obj/item/stack/tile/carpet/bcarpet
+	icon_base = "blackcarpet"
+	build_type = /obj/item/stack/tile/carpet/blackcarpet
+
+/decl/flooring/carpet/wcarpet
+	name = "white carpet"
+	icon_base = "whitecarpet"
+	build_type = /obj/item/stack/tile/carpet/whitecarpet
 
 /decl/flooring/carpet/blucarpet
 	name = "blue carpet"
